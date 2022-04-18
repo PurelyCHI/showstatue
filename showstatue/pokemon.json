@@ -1,0 +1,6605 @@
+{
+  "pokemonSetting": [
+    {
+      "extraText": "",
+      "pokemon": "Bulbasaur",
+      "form": 0,
+      "customtexture": [
+	    "christmas",
+		"halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Ivysaur",
+      "form": 0,
+      "customtexture": [
+	    "christmas",
+		"halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Venusaur",
+      "form": 0,
+      "customtexture": [
+	    "christmas",
+		"halloween"
+      ]
+    },
+	{
+      "extraText": "§aMEGA - ",
+      "pokemon": "Venusaur",
+      "form": 1,
+      "customtexture": [
+	    "christmas",
+		"halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Charmander",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Charmeleon",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Charizard",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Squirtle",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Wartortle",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Blastoise",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Caterpie",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Metapod",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Butterfree",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Weedle",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Kakuna",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Beedrill",
+      "form": 0,
+      "customtexture": [
+	    "art"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Pidgey",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Pidgeotto",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Pidgeot",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Rattata",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Raticate",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Spearow",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Fearow",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Ekans",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Arbok",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Pikachu",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Raichu",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Sandshrew",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Sandslash",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Nidoranfemale",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Nidorina",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Nidoqueen",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Nidoranmale",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Nidorino",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Nidoking",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Clefairy",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Clefable",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Vulpix",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Ninetales",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Jigglypuff",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Wigglytuff",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Zubat",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Golbat",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Oddish",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Gloom",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Vileplume",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Paras",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Parasect",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Venonat",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Venomoth",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Diglett",
+      "form": 0,
+      "customtexture": [
+	    "art",
+		"halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Dugtrio",
+      "form": 0,
+      "customtexture": [
+	    "art",
+		"halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Meowth",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Persian",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Psyduck",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Golduck",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Mankey",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Primeape",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Growlithe",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Arcanine",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Poliwag",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Poliwhirl",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Poliwrath",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Abra",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Kadabra",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Alakazam",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Machop",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Machoke",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Machamp",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Bellsprout",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Weepinbell",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Victreebel",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Tentacool",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Tentacruel",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Geodude",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Graveler",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Golem",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Ponyta",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Rapidash",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Slowpoke",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Slowbro",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Magnemite",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Magneton",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Farfetchd",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Doduo",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Dodrio",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Seel",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Dewgong",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Grimer",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Muk",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Shellder",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Cloyster",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Gastly",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Haunter",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Gengar",
+      "form": 0,
+      "customtexture": [
+	    "art",
+		"halloween"
+      ]
+    },
+    {
+      "extraText": "§aMEGA - ",
+      "pokemon": "Gengar",
+      "form": 1,
+      "customtexture": [
+	    "art",
+		"halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Onix",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Drowzee",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Hypno",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Krabby",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Kingler",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Voltorb",
+      "form": 0,
+      "customtexture": [
+	    "art"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Electrode",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Exeggcute",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Exeggutor",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Cubone",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Marowak",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Hitmonlee",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Hitmonchan",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Lickitung",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Koffing",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Weezing",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Rhyhorn",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Rhydon",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Chansey",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Tangela",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Kangaskhan",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Horsea",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Seadra",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Goldeen",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Seaking",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Staryu",
+      "form": 0,
+      "customtexture": [
+	    "art",
+		"halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Starmie",
+      "form": 0,
+      "customtexture": [
+	    "art",
+		"halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "MrMime",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Scyther",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Jynx",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Electabuzz",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Magmar",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Pinsir",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Tauros",
+      "form": 0,
+      "customtexture": [
+	    "art"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Magikarp",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Gyarados",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+	{
+      "extraText": "§aMEGA - ",
+      "pokemon": "Gyarados",
+      "form": 1,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Lapras",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Ditto",
+      "form": 0,
+      "customtexture": [
+	    "christmas"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Eevee",
+      "form": 0,
+      "customtexture": [
+	    "christmas"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Vaporeon",
+      "form": 0,
+      "customtexture": [
+	    "christmas",
+		"halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Jolteon",
+      "form": 0,
+      "customtexture": [
+	    "christmas"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Flareon",
+      "form": 0,
+      "customtexture": [
+	    "christmas"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Porygon",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Omanyte",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Omastar",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Kabuto",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Kabutops",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Aerodactyl",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Snorlax",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Articuno",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Zapdos",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Moltres",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Dratini",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Dragonair",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Dragonite",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Mewtwo",
+      "form": 0,
+      "customtexture": [
+        "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Mew",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+	{
+      "extraText": "§aMEGA-X - ",
+      "pokemon": "Mewtwo",
+      "form": 1,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+	{
+      "extraText": "§aMEGA-Y - ",
+      "pokemon": "Mewtwo",
+      "form": 2,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Chikorita",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Bayleef",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Meganium",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Cyndaquil",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Quilava",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Typhlosion",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Totodile",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Croconaw",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Feraligatr",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Sentret",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Furret",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Hoothoot",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Noctowl",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Ledyba",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Ledian",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Spinarak",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Ariados",
+      "form": 0,
+      "customtexture": [
+	    "art"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Crobat",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Chinchou",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Lanturn",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Pichu",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Cleffa",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Igglybuff",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Togepi",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Togetic",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Natu",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Xatu",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Mareep",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Flaaffy",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Ampharos",
+      "form": 0,
+      "customtexture": [
+	    "art"
+      ]
+    },
+	{
+      "extraText": "§aMEGA - ",
+      "pokemon": "Ampharos",
+      "form": 1,
+      "customtexture": [
+	    "art"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Bellossom",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Marill",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Azumarill",
+      "form": 0,
+      "customtexture": [
+        "christmas"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Sudowoodo",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Politoed",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Hoppip",
+      "form": 0,
+      "customtexture": [
+	    "christmas",
+		"halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Skiploom",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Jumpluff",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Aipom",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Sunkern",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Sunflora",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Yanma",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Wooper",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Quagsire",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Espeon",
+      "form": 0,
+      "customtexture": [
+	    "christmas"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Umbreon",
+      "form": 0,
+      "customtexture": [
+	    "christmas"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Murkrow",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Slowking",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Misdreavus",
+      "form": 0,
+      "customtexture": [
+	    "christmas"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Unown",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Wobbuffet",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Girafarig",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Pineco",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Forretress",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Dunsparce",
+      "form": 0,
+      "customtexture": [
+	    "art"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Gligar",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Steelix",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Snubbull",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Granbull",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Qwilfish",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Scizor",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Shuckle",
+      "form": 0,
+      "customtexture": [
+	    "christmas"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Heracross",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Sneasel",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Teddiursa",
+      "form": 0,
+      "customtexture": [
+	    "christmas",
+		"art",
+		"halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Ursaring",
+      "form": 0,
+      "customtexture": [
+	    "christmas",
+		"art",
+		"halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Slugma",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Magcargo",
+      "form": 0,
+      "customtexture": [
+	    "art",
+		"halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Swinub",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Piloswine",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Corsola",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Remoraid",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Octillery",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Delibird",
+      "form": 0,
+      "customtexture": [
+	    "christmas"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Mantine",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Skarmory",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Houndour",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Houndoom",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+	{
+      "extraText": "§aMEGA - ",
+      "pokemon": "Houndoom",
+      "form": 1,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Kingdra",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Phanpy",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Donphan",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Porygon2",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Stantler",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Smeargle",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Tyrogue",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Hitmontop",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Smoochum",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Elekid",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Magby",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Miltank",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Blissey",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Raikou",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Entei",
+      "form": 0,
+      "customtexture": [
+	    "christmas"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Suicune",
+      "form": 0,
+      "customtexture": [
+	    "christmas"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Larvitar",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Pupitar",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Tyranitar",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Lugia",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Ho-Oh",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Celebi",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Treecko",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Grovyle",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Sceptile",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Torchic",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Combusken",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Blaziken",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Mudkip",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Marshtomp",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Swampert",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Poochyena",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Mightyena",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Zigzagoon",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Linoone",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Wurmple",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Silcoon",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Beautifly",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Cascoon",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Dustox",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Lotad",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Lombre",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Ludicolo",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Seedot",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Nuzleaf",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Shiftry",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Taillow",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Swellow",
+      "form": 0,
+      "customtexture": [
+	    "art"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Wingull",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Pelipper",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Ralts",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Kirlia",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Gardevoir",
+      "form": 0,
+      "customtexture": [
+	     "halloween"
+      ]
+    },
+	{
+      "extraText": "§aMEGA - ",
+      "pokemon": "Gardevoir",
+      "form": 1,
+      "customtexture": [
+	     "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Surskit",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Masquerain",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Shroomish",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Breloom",
+      "form": 0,
+      "customtexture": [
+	    "art"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Slakoth",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Vigoroth",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Slaking",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Nincada",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Ninjask",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Shedinja",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Whismur",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Loudred",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Exploud",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Makuhita",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Hariyama",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Azurill",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Nosepass",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Skitty",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Delcatty",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Sableye",
+      "form": 0,
+      "customtexture": [
+	    "christmas",
+		"halloween"
+      ]
+    },
+    {
+      "extraText": "§aMEGA - ",
+      "pokemon": "Sableye",
+      "form": 1,
+      "customtexture": [
+	    "christmas",
+		"halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Mawile",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Aron",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Lairon",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Aggron",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Meditite",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Medicham",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Electrike",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Manectric",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Plusle",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Minun",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Volbeat",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Illumise",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Roselia",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Gulpin",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Swalot",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Carvanha",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Sharpedo",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Wailmer",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Wailord",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Numel",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Camerupt",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Torkoal",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Spoink",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Grumpig",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Spinda",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Trapinch",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Vibrava",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Flygon",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Cacnea",
+      "form": 0,
+      "customtexture": [
+	    "christmas",
+		"halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Cacturne",
+      "form": 0,
+      "customtexture": [
+	    "christmas",
+		"halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Swablu",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Altaria",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Zangoose",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Seviper",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Lunatone",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Solrock",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Barboach",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Whiscash",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Corphish",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Crawdaunt",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Baltoy",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Claydol",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Lileep",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Cradily",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Anorith",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Armaldo",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Feebas",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Milotic",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Castform",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Kecleon",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Shuppet",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Banette",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Duskull",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Dusclops",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Tropius",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Chimecho",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Absol",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Wynaut",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Snorunt",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Glalie",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Spheal",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Sealeo",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Walrein",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Clamperl",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Huntail",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Gorebyss",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Relicanth",
+      "form": 0,
+      "customtexture": [
+	    "art"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Luvdisc",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Bagon",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Shelgon",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Salamence",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Beldum",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Metang",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Metagross",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Regirock",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Regice",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Registeel",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Latias",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Latios",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Kyogre",
+      "form": 0,
+      "customtexture": [
+	    "art"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Groudon",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+	{
+      "extraText": "§a原始回歸 - ",
+      "pokemon": "Groudon",
+      "form": 1,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Rayquaza",
+      "form": 0,
+      "customtexture": [
+	    "christmas",
+		"halloween"
+      ]
+    },
+    {
+      "extraText": "§aMEGA - ",
+      "pokemon": "Rayquaza",
+      "form": 1,
+      "customtexture": [
+	    "christmas",
+		"halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Jirachi",
+      "form": 0,
+      "customtexture": [
+	    "art",
+		"halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Deoxys",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Turtwig",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Grotle",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Torterra",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Chimchar",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Monferno",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Infernape",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Piplup",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Prinplup",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Empoleon",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Starly",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Staravia",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Staraptor",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Bidoof",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Bibarel",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Kricketot",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Kricketune",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Shinx",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Luxio",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Luxray",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Budew",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Roserade",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Cranidos",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Rampardos",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Shieldon",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Bastiodon",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Burmy",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Wormadam",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Mothim",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Combee",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Vespiquen",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Pachirisu",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Buizel",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Floatzel",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Cherubi",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Cherrim",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Shellos",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "§a東海 - ",
+      "pokemon": "Gastrodon",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+	{
+      "extraText": "§a西海 - ",
+      "pokemon": "Gastrodon",
+      "form": 1,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Ambipom",
+      "form": 0,
+      "customtexture": [
+	    "art"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Drifloon",
+      "form": 0,
+      "customtexture": [
+	    "christmas"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Drifblim",
+      "form": 0,
+      "customtexture": [
+	    "christmas"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Buneary",
+      "form": 0,
+      "customtexture": [
+	    "christmas"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Lopunny",
+      "form": 0,
+      "customtexture": [
+	    "christmas"
+      ]
+    },
+	{
+      "extraText": "§aMEGA - ",
+      "pokemon": "Lopunny",
+      "form": 1,
+      "customtexture": [
+	    "christmas"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Mismagius",
+      "form": 0,
+      "customtexture": [
+	    "christmas",
+		"art",
+		"halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Honchkrow",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Glameow",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Purugly",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Chingling",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Stunky",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Skuntank",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Bronzor",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Bronzong",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Bonsly",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "MimeJr",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Happiny",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Chatot",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Spiritomb",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Gible",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Gabite",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Garchomp",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Munchlax",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Riolu",
+      "form": 0,
+      "customtexture": [
+	    "art"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Lucario",
+      "form": 0,
+      "customtexture": [
+	    "art",
+		"halloween"
+      ]
+    },
+    {
+      "extraText": "§aMEGA - ",
+      "pokemon": "Lucario",
+      "form": 1,
+      "customtexture": [
+	    "art",
+		"halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Hippopotas",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Hippowdon",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Skorupi",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Drapion",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Croagunk",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Toxicroak",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Carnivine",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Finneon",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Lumineon",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Mantyke",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Snover",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Abomasnow",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Weavile",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Magnezone",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Lickilicky",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Rhyperior",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Tangrowth",
+      "form": 0,
+      "customtexture": [
+	    "art"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Electivire",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Magmortar",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Togekiss",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Yanmega",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Leafeon",
+      "form": 0,
+      "customtexture": [
+	    "christmas"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Glaceon",
+      "form": 0,
+      "customtexture": [
+	    "christmas"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Gliscor",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Mamoswine",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Porygon-Z",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Gallade",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Probopass",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Dusknoir",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Froslass",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Rotom",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Uxie",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Mesprit",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Azelf",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Dialga",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Palkia",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Heatran",
+      "form": 0,
+      "customtexture": [
+	    "christmas",
+		"halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Regigigas",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Giratina",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Cresselia",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Phione",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Manaphy",
+      "form": 0,
+      "customtexture": [
+	    "christmas",
+		"art"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Darkrai",
+      "form": 0,
+      "customtexture": [
+	    "christmas"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Shaymin",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Arceus",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Victini",
+      "form": 0,
+      "customtexture": [
+	    "art"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Snivy",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Servine",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Serperior",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Tepig",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Pignite",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Emboar",
+      "form": 0,
+      "customtexture": [
+	    "art"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Oshawott",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Dewott",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Samurott",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Patrat",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Watchog",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Lillipup",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Herdier",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Stoutland",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Purrloin",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Liepard",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Pansage",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Simisage",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Pansear",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Simisear",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Panpour",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Simipour",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Munna",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Musharna",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Pidove",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Tranquill",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Unfezant",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Blitzle",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Zebstrika",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Roggenrola",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Boldore",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Gigalith",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Woobat",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Swoobat",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Drilbur",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Excadrill",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Audino",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Timburr",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Gurdurr",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Conkeldurr",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Tympole",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Palpitoad",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Seismitoad",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Throh",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Sawk",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Sewaddle",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Swadloon",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Leavanny",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Venipede",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Whirlipede",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Scolipede",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Cottonee",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Whimsicott",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Petilil",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Lilligant",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Basculin",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Sandile",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Krokorok",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Krookodile",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Darumaka",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Darmanitan",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Maractus",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Dwebble",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Crustle",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Scraggy",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Scrafty",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Sigilyph",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Yamask",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Cofagrigus",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Tirtouga",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Carracosta",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Archen",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Archeops",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Trubbish",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Garbodor",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Zorua",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Zoroark",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Minccino",
+      "form": 0,
+      "customtexture": [
+	    "art"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Cinccino",
+      "form": 0,
+      "customtexture": [
+	    "art"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Gothita",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Gothorita",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Gothitelle",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Solosis",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Duosion",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Reuniclus",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Ducklett",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Swanna",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Vanillite",
+      "form": 0,
+      "customtexture": [
+	    "christmas",
+		"art"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Vanillish",
+      "form": 0,
+      "customtexture": [
+	    "christmas",
+		"art"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Vanilluxe",
+      "form": 0,
+      "customtexture": [
+	    "christmas",
+		"art"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Deerling",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Sawsbuck",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Emolga",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Karrablast",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Escavalier",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Foongus",
+      "form": 0,
+      "customtexture": [
+	    "art"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Amoonguss",
+      "form": 0,
+      "customtexture": [
+	    "art"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Frillish",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Jellicent",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Alomomola",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Joltik",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Galvantula",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Ferroseed",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Ferrothorn",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Klink",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Klang",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Klinklang",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Tynamo",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Eelektrik",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Eelektross",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Elgyem",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Beheeyem",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Litwick",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Lampent",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Chandelure",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Axew",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Fraxure",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Haxorus",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Cubchoo",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Beartic",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Cryogonal",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Shelmet",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Accelgor",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Stunfisk",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Mienfoo",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Mienshao",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Druddigon",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Golett",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Golurk",
+      "form": 0,
+      "customtexture": [
+	    "art"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Pawniard",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Bisharp",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Bouffalant",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Rufflet",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Braviary",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Vullaby",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Mandibuzz",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Heatmor",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Durant",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Deino",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Zweilous",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Hydreigon",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Larvesta",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Volcarona",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Cobalion",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Terrakion",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Virizion",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Tornadus",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Thundurus",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Reshiram",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Zekrom",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Landorus",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Kyurem",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Keldeo",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Meloetta",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Genesect",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Chespin",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Quilladin",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Chesnaught",
+      "form": 0,
+      "customtexture": [
+	    "art"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Fennekin",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Braixen",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Delphox",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Froakie",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Frogadier",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Greninja",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Bunnelby",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Diggersby",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Fletchling",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Fletchinder",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Talonflame",
+      "form": 0,
+      "customtexture": [
+	    "art"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Scatterbug",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Spewpa",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Vivillon",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Litleo",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Pyroar",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Flabebe",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Floette",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Florges",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Skiddo",
+      "form": 0,
+      "customtexture": [
+	    "christmas"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Gogoat",
+      "form": 0,
+      "customtexture": [
+	    "christmas",
+		"halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Pancham",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Pangoro",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Furfrou",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Espurr",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Meowstic",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Honedge",
+      "form": 0,
+      "customtexture": [
+	    "art"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Doublade",
+      "form": 0,
+      "customtexture": [
+	    "art"
+      ]
+    },
+    {
+      "extraText": "§a盾牌型態 - ",
+      "pokemon": "Aegislash",
+      "form": 0,
+      "customtexture": [
+	    "art"
+      ]
+    },
+	{
+      "extraText": "§a刀劍型態 - ",
+      "pokemon": "Aegislash",
+      "form": 1,
+      "customtexture": [
+	    "art"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Spritzee",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Aromatisse",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Swirlix",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Slurpuff",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Inkay",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Malamar",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Binacle",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Barbaracle",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Skrelp",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Dragalge",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Clauncher",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Clawitzer",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Helioptile",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Heliolisk",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Tyrunt",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Tyrantrum",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Amaura",
+      "form": 0,
+      "customtexture": [
+	    "art"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Aurorus",
+      "form": 0,
+      "customtexture": [
+	    "art"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Sylveon",
+      "form": 0,
+      "customtexture": [
+	    "christmas"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Hawlucha",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Dedenne",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Carbink",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Goomy",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Sliggoo",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Goodra",
+      "form": 0,
+      "customtexture": [
+	    "art",
+		"halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Klefki",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Phantump",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Trevenant",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Pumpkaboo",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Gourgeist",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Bergmite",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Avalugg",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Noibat",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Noivern",
+      "form": 0,
+      "customtexture": [
+	    "christmas"
+      ]
+    },
+    {
+      "extraText": "§a放鬆模式 - ",
+      "pokemon": "Xerneas",
+      "form": 0,
+      "customtexture": [
+        "christmas"
+      ]
+    },
+    {
+      "extraText": "§a活躍模式 - ",
+      "pokemon": "Xerneas",
+      "form": 1,
+      "customtexture": [
+        "christmas"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Yveltal",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Zygarde",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Diancie",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+	{
+      "extraText": "§aMEGA - ",
+      "pokemon": "Diancie",
+      "form": 1,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Hoopa",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Volcanion",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Rowlet",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Dartrix",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Decidueye",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Litten",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Torracat",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Incineroar",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Popplio",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Brionne",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Primarina",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Pikipek",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Trumbeak",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Toucannon",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Yungoos",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Gumshoos",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Grubbin",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Charjabug",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Vikavolt",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Crabrawler",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Crabominable",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Oricorio",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Cutiefly",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Ribombee",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Rockruff",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Lycanroc",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Wishiwashi",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Mareanie",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Toxapex",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Mudbray",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Mudsdale",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Dewpider",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Araquanid",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Fomantis",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Lurantis",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Morelull",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Shiinotic",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Salandit",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Salazzle",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Stufful",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Bewear",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Bounsweet",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Steenee",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Tsareena",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Comfey",
+      "form": 0,
+      "customtexture": [
+	    "christmas"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Oranguru",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Passimian",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Wimpod",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Golisopod",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Sandygast",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Palossand",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Pyukumuku",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "TypeNull",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Silvally",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Minior",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Komala",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Turtonator",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Togedemaru",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Mimikyu",
+      "form": 0,
+      "customtexture": [
+	    "art"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Bruxish",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Drampa",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Dhelmise",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Jangmo-o",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Hakamo-o",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Kommo-o",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "TapuKoko",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "TapuLele",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "TapuBulu",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "TapuFini",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Cosmog",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Cosmoem",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Solgaleo",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Lunala",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Nihilego",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Buzzwole",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Pheromosa",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Xurkitree",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Celesteela",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Kartana",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Guzzlord",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Necrozma",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Magearna",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Marshadow",
+      "form": 0,
+      "customtexture": [
+	    "halloween"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Poipole",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Naganadel",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Stakataka",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Blacephalon",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Zeraora",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Meltan",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Melmetal",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Grookey",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Thwackey",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Rillaboom",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Scorbunny",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Raboot",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Cinderace",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Sobble",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Drizzile",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Inteleon",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Skwovet",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Greedent",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Rookidee",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Corvisquire",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Corviknight",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Blipbug",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Dottler",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Orbeetle",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Nickit",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Thievul",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Gossifleur",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Eldegoss",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Wooloo",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Dubwool",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Chewtle",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Drednaw",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Yamper",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Boltund",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Rolycoly",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Carkol",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Coalossal",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Applin",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Flapple",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Appletun",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Silicobra",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Sandaconda",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Cramorant",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Arrokuda",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Barraskewda",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Toxel",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Toxtricity",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Sizzlipede",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Centiskorch",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Clobbopus",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Grapploct",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Sinistea",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Polteageist",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Hatenna",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Hattrem",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Hatterene",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Impidimp",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Morgrem",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Grimmsnarl",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Obstagoon",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Perrserker",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Cursola",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Sirfetchd",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "MrRime",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Runerigus",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Milcery",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Alcremie",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Falinks",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Pincurchin",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Snom",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Frosmoth",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Stonjourner",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Eiscue",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Indeedee",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Morpeko",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Cufant",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Copperajah",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Dracozolt",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Arctozolt",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Dracovish",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Arctovish",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Duraludon",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Dreepy",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Drakloak",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Dragapult",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Zacian",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Zamazenta",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Eternatus",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Kubfu",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Urshifu",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Zarude",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Regieleki",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Regidrago",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Glastrier",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Spectrier",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Calyrex",
+      "form": 0,
+      "customtexture": [
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Wyrdeer",
+      "form": 0,
+      "customtexture": [
+      ]
+    }
+  ]
+}
