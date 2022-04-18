@@ -285,6 +285,7 @@
       "pokemon": "Ninetales",
       "form": 0,
       "customtexture": [
+	    "newyear"
       ]
     },
     {
@@ -429,6 +430,7 @@
       "pokemon": "Growlithe",
       "form": 0,
       "customtexture": [
+	    "newyear"
       ]
     },
     {
@@ -436,6 +438,7 @@
       "pokemon": "Arcanine",
       "form": 0,
       "customtexture": [
+	    "newyear"
       ]
     },
     {
@@ -571,6 +574,7 @@
       "pokemon": "Rapidash",
       "form": 0,
       "customtexture": [
+	    "newyear"
       ]
     },
     {
@@ -981,7 +985,8 @@
       "pokemon": "Ditto",
       "form": 0,
       "customtexture": [
-	    "christmas"
+	    "christmas",
+		"newyear"
       ]
     },
     {
@@ -1564,6 +1569,7 @@
       "pokemon": "Snubbull",
       "form": 0,
       "customtexture": [
+	    "newyear"
       ]
     },
     {
@@ -1659,6 +1665,7 @@
       "pokemon": "Piloswine",
       "form": 0,
       "customtexture": [
+	    "newyear"
       ]
     },
     {
@@ -1709,7 +1716,8 @@
       "pokemon": "Houndour",
       "form": 0,
       "customtexture": [
-	    "halloween"
+	    "halloween",
+		"newyear"
       ]
     },
     {
@@ -1717,7 +1725,8 @@
       "pokemon": "Houndoom",
       "form": 0,
       "customtexture": [
-	    "halloween"
+	    "halloween",
+		"newyear"
       ]
     },
     {
@@ -1725,7 +1734,8 @@
       "pokemon": "Houndoom",
       "form": 1,
       "customtexture": [
-	    "halloween"
+	    "halloween",
+		"newyear"
       ]
     },
     {
@@ -1839,7 +1849,8 @@
       "pokemon": "Suicune",
       "form": 0,
       "customtexture": [
-	    "christmas"
+	    "christmas",
+		"newyear"
       ]
     },
     {
@@ -1953,6 +1964,7 @@
       "pokemon": "Poochyena",
       "form": 0,
       "customtexture": [
+	    "newyear"
       ]
     },
     {
@@ -1960,7 +1972,8 @@
       "pokemon": "Mightyena",
       "form": 0,
       "customtexture": [
-	    "halloween"
+	    "halloween",
+		"newyear"
       ]
     },
     {
@@ -2256,7 +2269,8 @@
       "form": 0,
       "customtexture": [
 	    "christmas",
-	    "halloween"
+	    "halloween",
+		"newyear"
       ]
     },
     {
@@ -2315,6 +2329,7 @@
       "pokemon": "Electrike",
       "form": 0,
       "customtexture": [
+	    "newyear"
       ]
     },
     {
@@ -2322,6 +2337,15 @@
       "pokemon": "Manectric",
       "form": 0,
       "customtexture": [
+	    "newyear"
+      ]
+    },
+	{
+      "extraText": "§aMEGA - ",
+      "pokemon": "Manectric",
+      "form": 1,
+      "customtexture": [
+	    "newyear"
       ]
     },
     {
@@ -2429,6 +2453,7 @@
       "pokemon": "Spoink",
       "form": 0,
       "customtexture": [
+	    "newyear"
       ]
     },
     {
@@ -2436,6 +2461,7 @@
       "pokemon": "Grumpig",
       "form": 0,
       "customtexture": [
+	    "newyear"
       ]
     },
     {
@@ -2450,6 +2476,7 @@
       "pokemon": "Trapinch",
       "form": 0,
       "customtexture": [
+	    "newyear"
       ]
     },
     {
@@ -2457,6 +2484,7 @@
       "pokemon": "Vibrava",
       "form": 0,
       "customtexture": [
+	    "newyear"
       ]
     },
     {
@@ -2464,6 +2492,7 @@
       "pokemon": "Flygon",
       "form": 0,
       "customtexture": [
+	    "newyear"
       ]
     },
     {
@@ -2601,6 +2630,7 @@
       "pokemon": "Feebas",
       "form": 0,
       "customtexture": [
+	    "newyear"
       ]
     },
     {
@@ -2608,7 +2638,8 @@
       "pokemon": "Milotic",
       "form": 0,
       "customtexture": [
-	    "halloween"
+	    "halloween",
+		"newyear"
       ]
     },
     {
@@ -2666,6 +2697,7 @@
       "pokemon": "Chimecho",
       "form": 0,
       "customtexture": [
+	    "newyear"
       ]
     },
     {
@@ -2800,6 +2832,7 @@
       "pokemon": "Regirock",
       "form": 0,
       "customtexture": [
+	    "newyear"
       ]
     },
     {
@@ -2878,7 +2911,8 @@
       "form": 0,
       "customtexture": [
 	    "art",
-	    "halloween"
+	    "halloween",
+		"newyear"
       ]
     },
     {
@@ -3173,7 +3207,8 @@
       "pokemon": "Drifloon",
       "form": 0,
       "customtexture": [
-	    "christmas"
+	    "christmas",
+		"newyear"
       ]
     },
     {
@@ -3181,7 +3216,8 @@
       "pokemon": "Drifblim",
       "form": 0,
       "customtexture": [
-	    "christmas"
+	    "christmas",
+		"newyear"
       ]
     },
     {
@@ -3244,6 +3280,7 @@
       "pokemon": "Chingling",
       "form": 0,
       "customtexture": [
+	    "newyear"
       ]
     },
     {
@@ -3343,7 +3380,8 @@
       "pokemon": "Riolu",
       "form": 0,
       "customtexture": [
-	    "art"
+	    "art",
+		"newyear"
       ]
     },
     {
@@ -3352,7 +3390,8 @@
       "form": 0,
       "customtexture": [
 	    "art",
-	    "halloween"
+	    "halloween",
+		"newyear"
       ]
     },
     {
@@ -3361,7 +3400,8 @@
       "form": 1,
       "customtexture": [
 	    "art",
-	    "halloween"
+	    "halloween",
+		"newyear"
       ]
     },
     {
@@ -3578,6 +3618,7 @@
       "pokemon": "Froslass",
       "form": 0,
       "customtexture": [
+	    "newyear"
       ]
     },
     {
@@ -3600,6 +3641,7 @@
       "pokemon": "Mesprit",
       "form": 0,
       "customtexture": [
+	    "newyear"
       ]
     },
     {
@@ -3607,7 +3649,8 @@
       "pokemon": "Azelf",
       "form": 0,
       "customtexture": [
-	    "halloween"
+	    "halloween",
+		"newyear"
       ]
     },
     {
@@ -3668,7 +3711,8 @@
       "form": 0,
       "customtexture": [
 	    "christmas",
-	    "art"
+	    "art",
+		"newyear"
       ]
     },
     {
@@ -3805,6 +3849,7 @@
       "pokemon": "Purrloin",
       "form": 0,
       "customtexture": [
+	    "newyear"
       ]
     },
     {
@@ -3812,6 +3857,7 @@
       "pokemon": "Liepard",
       "form": 0,
       "customtexture": [
+	   "newyear"
       ]
     },
     {
@@ -3861,6 +3907,7 @@
       "pokemon": "Munna",
       "form": 0,
       "customtexture": [
+	    "newyear"
       ]
     },
     {
@@ -3868,6 +3915,7 @@
       "pokemon": "Musharna",
       "form": 0,
       "customtexture": [
+	    "newyear"
       ]
     },
     {
@@ -4184,7 +4232,8 @@
       "pokemon": "Cofagrigus",
       "form": 0,
       "customtexture": [
-	    "halloween"
+	    "halloween",
+		"newyear"
       ]
     },
     {
@@ -4428,6 +4477,7 @@
       "pokemon": "Galvantula",
       "form": 0,
       "customtexture": [
+	    "newyear"
       ]
     },
     {
