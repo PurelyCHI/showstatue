@@ -6,7 +6,7 @@
       "form": 0,
       "customtexture": [
 	    "christmas",
-		"halloween"
+	    "halloween"
       ]
     },
     {
@@ -15,7 +15,7 @@
       "form": 0,
       "customtexture": [
 	    "christmas",
-		"halloween"
+	    "halloween"
       ]
     },
     {
@@ -24,16 +24,16 @@
       "form": 0,
       "customtexture": [
 	    "christmas",
-		"halloween"
+	    "halloween"
       ]
     },
 	{
-      "extraText": "°±aMEGA - ",
+      "extraText": "¬ßaMEGA - ",
       "pokemon": "Venusaur",
       "form": 1,
       "customtexture": [
 	    "christmas",
-		"halloween"
+	    "halloween"
       ]
     },
     {
@@ -370,7 +370,7 @@
       "form": 0,
       "customtexture": [
 	    "art",
-		"halloween"
+	    "halloween"
       ]
     },
     {
@@ -379,7 +379,7 @@
       "form": 0,
       "customtexture": [
 	    "art",
-		"halloween"
+	    "halloween"
       ]
     },
     {
@@ -687,16 +687,16 @@
       "form": 0,
       "customtexture": [
 	    "art",
-		"halloween"
+	    "halloween"
       ]
     },
     {
-      "extraText": "°±aMEGA - ",
+      "extraText": "¬ßaMEGA - ",
       "pokemon": "Gengar",
       "form": 1,
       "customtexture": [
 	    "art",
-		"halloween"
+	    "halloween"
       ]
     },
     {
@@ -883,7 +883,7 @@
       "form": 0,
       "customtexture": [
 	    "art",
-		"halloween"
+	    "halloween"
       ]
     },
     {
@@ -892,7 +892,7 @@
       "form": 0,
       "customtexture": [
 	    "art",
-		"halloween"
+	    "halloween"
       ]
     },
     {
@@ -962,7 +962,7 @@
       ]
     },
 	{
-      "extraText": "°±aMEGA - ",
+      "extraText": "¬ßaMEGA - ",
       "pokemon": "Gyarados",
       "form": 1,
       "customtexture": [
@@ -998,7 +998,7 @@
       "form": 0,
       "customtexture": [
 	    "christmas",
-		"halloween"
+	    "halloween"
       ]
     },
     {
@@ -1126,7 +1126,7 @@
       ]
     },
 	{
-      "extraText": "°±aMEGA-X - ",
+      "extraText": "¬ßaMEGA-X - ",
       "pokemon": "Mewtwo",
       "form": 1,
       "customtexture": [
@@ -1134,7 +1134,7 @@
       ]
     },
 	{
-      "extraText": "°±aMEGA-Y - ",
+      "extraText": "¬ßaMEGA-Y - ",
       "pokemon": "Mewtwo",
       "form": 2,
       "customtexture": [
@@ -1354,7 +1354,7 @@
       ]
     },
 	{
-      "extraText": "°±aMEGA - ",
+      "extraText": "¬ßaMEGA - ",
       "pokemon": "Ampharos",
       "form": 1,
       "customtexture": [
@@ -1403,7 +1403,7 @@
       "form": 0,
       "customtexture": [
 	    "christmas",
-		"halloween"
+	    "halloween"
       ]
     },
     {
@@ -1616,8 +1616,8 @@
       "form": 0,
       "customtexture": [
 	    "christmas",
-		"art",
-		"halloween"
+	    "art",
+	    "halloween"
       ]
     },
     {
@@ -1626,8 +1626,8 @@
       "form": 0,
       "customtexture": [
 	    "christmas",
-		"art",
-		"halloween"
+	    "art",
+	    "halloween"
       ]
     },
     {
@@ -1644,7 +1644,7 @@
       "form": 0,
       "customtexture": [
 	    "art",
-		"halloween"
+	    "halloween"
       ]
     },
     {
@@ -1721,7 +1721,7 @@
       ]
     },
 	{
-      "extraText": "°±aMEGA - ",
+      "extraText": "¬ßaMEGA - ",
       "pokemon": "Houndoom",
       "form": 1,
       "customtexture": [
@@ -2107,7 +2107,7 @@
       ]
     },
 	{
-      "extraText": "°±aMEGA - ",
+      "extraText": "¬ßaMEGA - ",
       "pokemon": "Gardevoir",
       "form": 1,
       "customtexture": [
@@ -2256,16 +2256,16 @@
       "form": 0,
       "customtexture": [
 	    "christmas",
-		"halloween"
+	    "halloween"
       ]
     },
     {
-      "extraText": "°±aMEGA - ",
+      "extraText": "¬ßaMEGA - ",
       "pokemon": "Sableye",
       "form": 1,
       "customtexture": [
 	    "christmas",
-		"halloween"
+	    "halloween"
       ]
     },
     {
@@ -2472,7 +2472,7 @@
       "form": 0,
       "customtexture": [
 	    "christmas",
-		"halloween"
+	    "halloween"
       ]
     },
     {
@@ -2481,7 +2481,7 @@
       "form": 0,
       "customtexture": [
 	    "christmas",
-		"halloween"
+	    "halloween"
       ]
     },
     {
@@ -2847,7 +2847,7 @@
       ]
     },
 	{
-      "extraText": "°±a≠Ï©l¶^¬k - ",
+      "extraText": "¬ßaÂéüÂßãÂõûÊ≠∏ - ",
       "pokemon": "Groudon",
       "form": 1,
       "customtexture": [
@@ -2860,16 +2860,16 @@
       "form": 0,
       "customtexture": [
 	    "christmas",
-		"halloween"
+	    "halloween"
       ]
     },
     {
-      "extraText": "°±aMEGA - ",
+      "extraText": "¬ßaMEGA - ",
       "pokemon": "Rayquaza",
       "form": 1,
       "customtexture": [
 	    "christmas",
-		"halloween"
+	    "halloween"
       ]
     },
     {
@@ -2878,7 +2878,7 @@
       "form": 0,
       "customtexture": [
 	    "art",
-		"halloween"
+	    "halloween"
       ]
     },
     {
@@ -3145,7 +3145,7 @@
       ]
     },
     {
-      "extraText": "°±a™FÆ¸ - ",
+      "extraText": "¬ßaÊù±Êµ∑ - ",
       "pokemon": "Gastrodon",
       "form": 0,
       "customtexture": [
@@ -3153,7 +3153,7 @@
       ]
     },
 	{
-      "extraText": "°±a¶ËÆ¸ - ",
+      "extraText": "¬ßaË•øÊµ∑ - ",
       "pokemon": "Gastrodon",
       "form": 1,
       "customtexture": [
@@ -3201,7 +3201,7 @@
       ]
     },
 	{
-      "extraText": "°±aMEGA - ",
+      "extraText": "¬ßaMEGA - ",
       "pokemon": "Lopunny",
       "form": 1,
       "customtexture": [
@@ -3214,8 +3214,8 @@
       "form": 0,
       "customtexture": [
 	    "christmas",
-		"art",
-		"halloween"
+	    "art",
+	    "halloween"
       ]
     },
     {
@@ -3352,16 +3352,16 @@
       "form": 0,
       "customtexture": [
 	    "art",
-		"halloween"
+	    "halloween"
       ]
     },
     {
-      "extraText": "°±aMEGA - ",
+      "extraText": "¬ßaMEGA - ",
       "pokemon": "Lucario",
       "form": 1,
       "customtexture": [
 	    "art",
-		"halloween"
+	    "halloween"
       ]
     },
     {
@@ -3631,7 +3631,7 @@
       "form": 0,
       "customtexture": [
 	    "christmas",
-		"halloween"
+	    "halloween"
       ]
     },
     {
@@ -3668,7 +3668,7 @@
       "form": 0,
       "customtexture": [
 	    "christmas",
-		"art"
+	    "art"
       ]
     },
     {
@@ -4323,7 +4323,7 @@
       "form": 0,
       "customtexture": [
 	    "christmas",
-		"art"
+	    "art"
       ]
     },
     {
@@ -4332,7 +4332,7 @@
       "form": 0,
       "customtexture": [
 	    "christmas",
-		"art"
+	    "art"
       ]
     },
     {
@@ -4341,7 +4341,7 @@
       "form": 0,
       "customtexture": [
 	    "christmas",
-		"art"
+	    "art"
       ]
     },
     {
@@ -4974,7 +4974,7 @@
       "form": 0,
       "customtexture": [
 	    "christmas",
-		"halloween"
+	    "halloween"
       ]
     },
     {
@@ -5029,7 +5029,7 @@
       ]
     },
     {
-      "extraText": "°±a¨ﬁµP´¨∫A - ",
+      "extraText": "¬ßaÁõæÁâåÂûãÊÖã - ",
       "pokemon": "Aegislash",
       "form": 0,
       "customtexture": [
@@ -5037,7 +5037,7 @@
       ]
     },
 	{
-      "extraText": "°±a§MºC´¨∫A - ",
+      "extraText": "¬ßaÂàÄÂäçÂûãÊÖã - ",
       "pokemon": "Aegislash",
       "form": 1,
       "customtexture": [
@@ -5223,7 +5223,7 @@
       "form": 0,
       "customtexture": [
 	    "art",
-		"halloween"
+	    "halloween"
       ]
     },
     {
@@ -5293,7 +5293,7 @@
       ]
     },
     {
-      "extraText": "°±a©Ò√Pº“¶° - ",
+      "extraText": "¬ßaÊîæÈ¨ÜÊ®°Âºè - ",
       "pokemon": "Xerneas",
       "form": 0,
       "customtexture": [
@@ -5301,7 +5301,7 @@
       ]
     },
     {
-      "extraText": "°±a¨°≈Dº“¶° - ",
+      "extraText": "¬ßaÊ¥ªË∫çÊ®°Âºè - ",
       "pokemon": "Xerneas",
       "form": 1,
       "customtexture": [
@@ -5331,7 +5331,7 @@
       ]
     },
 	{
-      "extraText": "°±aMEGA - ",
+      "extraText": "¬ßaMEGA - ",
       "pokemon": "Diancie",
       "form": 1,
       "customtexture": [
