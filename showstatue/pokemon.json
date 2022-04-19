@@ -6,7 +6,8 @@
       "form": 0,
       "customtexture": [
 	    "christmas",
-	    "halloween"
+	    "halloween",
+		"galaxy"
       ]
     },
     {
@@ -15,7 +16,8 @@
       "form": 0,
       "customtexture": [
 	    "christmas",
-	    "halloween"
+	    "halloween",
+		"galaxy"
       ]
     },
     {
@@ -24,7 +26,8 @@
       "form": 0,
       "customtexture": [
 	    "christmas",
-	    "halloween"
+	    "halloween",
+		"galaxy"
       ]
     },
     {
@@ -33,7 +36,8 @@
       "form": 1,
       "customtexture": [
 	    "christmas",
-	    "halloween"
+	    "halloween",
+		"galaxy"
       ]
     },
     {
@@ -62,6 +66,7 @@
       "pokemon": "Squirtle",
       "form": 0,
       "customtexture": [
+	    "galaxy"
       ]
     },
     {
@@ -274,18 +279,37 @@
       ]
     },
     {
-      "extraText": "",
+      "extraText": "&a一般型態 - ",
       "pokemon": "Vulpix",
       "form": 0,
       "customtexture": [
+		"galaxy"
+      ]
+    },
+	{
+      "extraText": "&a阿羅拉 - ",
+      "pokemon": "Vulpix",
+      "form": 0,
+      "customtexture": [
+		"galaxy"
       ]
     },
     {
-      "extraText": "",
+      "extraText": "&a一般型態 - ",
       "pokemon": "Ninetales",
       "form": 0,
       "customtexture": [
-	    "newyear"
+	    "newyear",
+		"galaxy"
+      ]
+    },
+    {
+      "extraText": "&a阿羅拉 - ",
+      "pokemon": "Ninetales",
+      "form": 0,
+      "customtexture": [
+	    "newyear",
+		"galaxy"
       ]
     },
     {
@@ -321,6 +345,7 @@
       "pokemon": "Oddish",
       "form": 0,
       "customtexture": [
+	    "galaxy"
       ]
     },
     {
@@ -328,6 +353,7 @@
       "pokemon": "Gloom",
       "form": 0,
       "customtexture": [
+	    "galaxy"
       ]
     },
     {
@@ -335,6 +361,7 @@
       "pokemon": "Vileplume",
       "form": 0,
       "customtexture": [
+	    "galaxy"
       ]
     },
     {
@@ -675,6 +702,7 @@
       "pokemon": "Gastly",
       "form": 0,
       "customtexture": [
+	    "newyear"
       ]
     },
     {
@@ -682,7 +710,8 @@
       "pokemon": "Haunter",
       "form": 0,
       "customtexture": [
-	    "halloween"
+	    "halloween",
+		"galaxy"
       ]
     },
     {
@@ -691,7 +720,8 @@
       "form": 0,
       "customtexture": [
 	    "art",
-	    "halloween"
+	    "halloween",
+		"galaxy"
       ]
     },
     {
@@ -700,7 +730,8 @@
       "form": 1,
       "customtexture": [
 	    "art",
-	    "halloween"
+	    "halloween",
+		"galaxy"
       ]
     },
     {
@@ -955,6 +986,7 @@
       "pokemon": "Magikarp",
       "form": 0,
       "customtexture": [
+	    "galaxy"
       ]
     },
     {
@@ -962,7 +994,8 @@
       "pokemon": "Gyarados",
       "form": 0,
       "customtexture": [
-	    "halloween"
+	    "halloween",
+		"galaxy"
       ]
     },
     {
@@ -970,7 +1003,8 @@
       "pokemon": "Gyarados",
       "form": 1,
       "customtexture": [
-	    "halloween"
+	    "halloween",
+		"galaxy"
       ]
     },
     {
@@ -986,7 +1020,8 @@
       "form": 0,
       "customtexture": [
 	    "christmas",
-		"newyear"
+		"newyear",
+		"galaxy"
       ]
     },
     {
@@ -994,7 +1029,16 @@
       "pokemon": "Eevee",
       "form": 0,
       "customtexture": [
-	    "christmas"
+	    "christmas",
+		"galaxy"
+      ]
+    },
+    {
+      "extraText": "",
+      "pokemon": "Eevee",
+      "form": 1,
+      "customtexture": [
+		"galaxy"
       ]
     },
     {
@@ -1003,7 +1047,8 @@
       "form": 0,
       "customtexture": [
 	    "christmas",
-	    "halloween"
+	    "halloween",
+		"galaxy"
       ]
     },
     {
@@ -1011,7 +1056,8 @@
       "pokemon": "Jolteon",
       "form": 0,
       "customtexture": [
-	    "christmas"
+	    "christmas",
+		"galaxy"
       ]
     },
     {
@@ -1019,7 +1065,8 @@
       "pokemon": "Flareon",
       "form": 0,
       "customtexture": [
-	    "christmas"
+	    "christmas",
+		"galaxy"
       ]
     },
     {
@@ -1034,6 +1081,7 @@
       "pokemon": "Omanyte",
       "form": 0,
       "customtexture": [
+	    "galaxy"
       ]
     },
     {
@@ -1041,6 +1089,7 @@
       "pokemon": "Omastar",
       "form": 0,
       "customtexture": [
+	    "galaxy"
       ]
     },
     {
@@ -1127,7 +1176,8 @@
       "pokemon": "Mew",
       "form": 0,
       "customtexture": [
-	    "halloween"
+	    "halloween",
+		"galaxy"
       ]
     },
     {
@@ -1172,6 +1222,7 @@
       "pokemon": "Cyndaquil",
       "form": 0,
       "customtexture": [
+	    "galaxy"
       ]
     },
     {
@@ -1179,6 +1230,7 @@
       "pokemon": "Quilava",
       "form": 0,
       "customtexture": [
+	    "galaxy"
       ]
     },
     {
@@ -1186,6 +1238,7 @@
       "pokemon": "Typhlosion",
       "form": 0,
       "customtexture": [
+	    "galaxy"
       ]
     },
     {
@@ -1235,6 +1288,7 @@
       "pokemon": "Noctowl",
       "form": 0,
       "customtexture": [
+	    "galaxy"
       ]
     },
     {
@@ -1313,6 +1367,7 @@
       "pokemon": "Togepi",
       "form": 0,
       "customtexture": [
+	    "galaxy"
       ]
     },
     {
@@ -1320,6 +1375,7 @@
       "pokemon": "Togetic",
       "form": 0,
       "customtexture": [
+	    "galaxy"
       ]
     },
     {
@@ -1474,7 +1530,8 @@
       "pokemon": "Espeon",
       "form": 0,
       "customtexture": [
-	    "christmas"
+	    "christmas",
+		"galaxy"
       ]
     },
     {
@@ -1482,7 +1539,8 @@
       "pokemon": "Umbreon",
       "form": 0,
       "customtexture": [
-	    "christmas"
+	    "christmas",
+		"galaxy"
       ]
     },
     {
@@ -2146,6 +2204,7 @@
       "pokemon": "Shroomish",
       "form": 0,
       "customtexture": [
+	    "galaxy"
       ]
     },
     {
@@ -2153,7 +2212,8 @@
       "pokemon": "Breloom",
       "form": 0,
       "customtexture": [
-	    "art"
+	    "art",
+		"galaxy"
       ]
     },
     {
@@ -2416,7 +2476,8 @@
       "pokemon": "Wailmer",
       "form": 0,
       "customtexture": [
-	    "halloween"
+	    "halloween",
+		"galaxy"
       ]
     },
     {
@@ -2424,7 +2485,8 @@
       "pokemon": "Wailord",
       "form": 0,
       "customtexture": [
-	    "halloween"
+	    "halloween",
+		"galaxy"
       ]
     },
     {
@@ -2501,7 +2563,8 @@
       "form": 0,
       "customtexture": [
 	    "christmas",
-	    "halloween"
+	    "halloween",
+		"galaxy"
       ]
     },
     {
@@ -2510,7 +2573,8 @@
       "form": 0,
       "customtexture": [
 	    "christmas",
-	    "halloween"
+	    "halloween",
+		"galaxy"
       ]
     },
     {
@@ -2893,7 +2957,8 @@
       "form": 0,
       "customtexture": [
 	    "christmas",
-	    "halloween"
+	    "halloween",
+		"galaxy"
       ]
     },
     {
@@ -2902,7 +2967,8 @@
       "form": 1,
       "customtexture": [
 	    "christmas",
-	    "halloween"
+	    "halloween",
+		"galaxy"
       ]
     },
     {
@@ -3225,7 +3291,8 @@
       "pokemon": "Buneary",
       "form": 0,
       "customtexture": [
-	    "christmas"
+	    "christmas",
+		"galaxy"
       ]
     },
     {
@@ -3344,7 +3411,8 @@
       "pokemon": "Spiritomb",
       "form": 0,
       "customtexture": [
-	    "halloween"
+	    "halloween",
+		"galaxy"
       ]
     },
     {
@@ -3381,7 +3449,8 @@
       "form": 0,
       "customtexture": [
 	    "art",
-		"newyear"
+		"newyear",
+		"galaxy"
       ]
     },
     {
@@ -3544,6 +3613,7 @@
       "pokemon": "Togekiss",
       "form": 0,
       "customtexture": [
+	    "galaxy"
       ]
     },
     {
@@ -3566,7 +3636,8 @@
       "pokemon": "Glaceon",
       "form": 0,
       "customtexture": [
-	    "christmas"
+	    "christmas",
+		"galaxy"
       ]
     },
     {
@@ -3650,7 +3721,8 @@
       "form": 0,
       "customtexture": [
 	    "halloween",
-		"newyear"
+		"newyear",
+		"galaxy"
       ]
     },
     {
@@ -3658,7 +3730,8 @@
       "pokemon": "Dialga",
       "form": 0,
       "customtexture": [
-	    "halloween"
+	    "halloween",
+		"galaxy"
       ]
     },
     {
@@ -3712,7 +3785,8 @@
       "customtexture": [
 	    "christmas",
 	    "art",
-		"newyear"
+		"newyear",
+		"galaxy"
       ]
     },
     {
@@ -3724,10 +3798,19 @@
       ]
     },
     {
-      "extraText": "",
+      "extraText": "&a陸上型態 - ",
       "pokemon": "Shaymin",
       "form": 0,
       "customtexture": [
+	    "galaxy"
+      ]
+    },
+	{
+      "extraText": "&a天空型態 - ",
+      "pokemon": "Shaymin",
+      "form": 1,
+      "customtexture": [
+	    "galaxy"
       ]
     },
     {
@@ -3735,6 +3818,7 @@
       "pokemon": "Arceus",
       "form": 0,
       "customtexture": [
+	    "galaxy"
       ]
     },
     {
@@ -3742,7 +3826,8 @@
       "pokemon": "Victini",
       "form": 0,
       "customtexture": [
-	    "art"
+	    "art",
+		"galaxy"
       ]
     },
     {
@@ -4283,7 +4368,8 @@
       "pokemon": "Zorua",
       "form": 0,
       "customtexture": [
-	    "halloween"
+	    "halloween",
+		"galaxy"
       ]
     },
     {
@@ -4291,7 +4377,8 @@
       "pokemon": "Zoroark",
       "form": 0,
       "customtexture": [
-	    "halloween"
+	    "halloween",
+		"galaxy"
       ]
     },
     {
@@ -4433,7 +4520,8 @@
       "pokemon": "Foongus",
       "form": 0,
       "customtexture": [
-	    "art"
+	    "art",
+		"galaxy"
       ]
     },
     {
@@ -4733,6 +4821,7 @@
       "pokemon": "Durant",
       "form": 0,
       "customtexture": [
+	    "galaxy"
       ]
     },
     {
@@ -4761,6 +4850,7 @@
       "pokemon": "Larvesta",
       "form": 0,
       "customtexture": [
+	    "galaxy"
       ]
     },
     {
@@ -4768,6 +4858,7 @@
       "pokemon": "Volcarona",
       "form": 0,
       "customtexture": [
+	    "galaxy"
       ]
     },
     {
@@ -5004,6 +5095,14 @@
       ]
     },
     {
+      "extraText": "§a永恆之花 §a- ",
+      "pokemon": "Floette",
+      "form": 5,
+      "customtexture": [
+	    "galaxy"
+      ]
+    },
+    {
       "extraText": "",
       "pokemon": "Florges",
       "form": 0,
@@ -5211,7 +5310,8 @@
       "pokemon": "Amaura",
       "form": 0,
       "customtexture": [
-	    "art"
+	    "art",
+		"galaxy"
       ]
     },
     {
@@ -5219,7 +5319,8 @@
       "pokemon": "Aurorus",
       "form": 0,
       "customtexture": [
-	    "art"
+	    "art",
+		"galaxy"
       ]
     },
     {
@@ -5227,7 +5328,8 @@
       "pokemon": "Sylveon",
       "form": 0,
       "customtexture": [
-	    "christmas"
+	    "christmas",
+		"galaxy"
       ]
     },
     {
@@ -5363,6 +5465,7 @@
       "pokemon": "Yveltal",
       "form": 0,
       "customtexture": [
+	    "galaxy"
       ]
     },
     {
@@ -5564,10 +5667,27 @@
       ]
     },
     {
-      "extraText": "",
+      "extraText": "§a白晝型態 - "
       "pokemon": "Lycanroc",
       "form": 0,
       "customtexture": [
+	    "galaxy"
+      ]
+    },
+	{
+      "extraText": "§a黑夜型態 - "
+      "pokemon": "Lycanroc",
+      "form": 1,
+      "customtexture": [
+	    "galaxy"
+      ]
+    },
+	{
+      "extraText": "§a黃昏型態 - "
+      "pokemon": "Lycanroc",
+      "form": 2,
+      "customtexture": [
+	    "galaxy"
       ]
     },
     {
@@ -5652,6 +5772,7 @@
       "pokemon": "Salandit",
       "form": 0,
       "customtexture": [
+	    "galaxy"
       ]
     },
     {
@@ -5659,6 +5780,7 @@
       "pokemon": "Salazzle",
       "form": 0,
       "customtexture": [
+	    "galaxy"
       ]
     },
     {
@@ -5800,7 +5922,8 @@
       "pokemon": "Mimikyu",
       "form": 0,
       "customtexture": [
-	    "art"
+	    "art",
+		"galaxy"
       ]
     },
     {
@@ -5850,6 +5973,7 @@
       "pokemon": "TapuKoko",
       "form": 0,
       "customtexture": [
+	    "galaxy"
       ]
     },
     {
@@ -5857,6 +5981,7 @@
       "pokemon": "TapuLele",
       "form": 0,
       "customtexture": [
+	    "galaxy"
       ]
     },
     {
@@ -5864,6 +5989,7 @@
       "pokemon": "TapuBulu",
       "form": 0,
       "customtexture": [
+	    "galaxy"
       ]
     },
     {
@@ -5871,6 +5997,7 @@
       "pokemon": "TapuFini",
       "form": 0,
       "customtexture": [
+	    "galaxy"
       ]
     },
     {
@@ -5941,6 +6068,7 @@
       "pokemon": "Kartana",
       "form": 0,
       "customtexture": [
+	    "galaxy"
       ]
     },
     {
@@ -6173,6 +6301,7 @@
       "pokemon": "Wooloo",
       "form": 0,
       "customtexture": [
+	    "galaxy"
       ]
     },
     {
@@ -6180,6 +6309,7 @@
       "pokemon": "Dubwool",
       "form": 0,
       "customtexture": [
+	    "galaxy"
       ]
     },
     {
@@ -6460,6 +6590,7 @@
       "pokemon": "Snom",
       "form": 0,
       "customtexture": [
+	    "galaxy"
       ]
     },
     {
@@ -6467,6 +6598,7 @@
       "pokemon": "Frosmoth",
       "form": 0,
       "customtexture": [
+	    "galaxy"
       ]
     },
     {
