@@ -7,7 +7,7 @@
       "customtexture": [
 	    "christmas",
 	    "halloween",
-		"galaxy"
+	    "galaxy"
       ]
     },
     {
@@ -17,7 +17,7 @@
       "customtexture": [
 	    "christmas",
 	    "halloween",
-		"galaxy"
+	    "galaxy"
       ]
     },
     {
@@ -27,7 +27,7 @@
       "customtexture": [
 	    "christmas",
 	    "halloween",
-		"galaxy"
+	    "galaxy"
       ]
     },
     {
@@ -37,7 +37,7 @@
       "customtexture": [
 	    "christmas",
 	    "halloween",
-		"galaxy"
+	    "galaxy"
       ]
     },
     {
@@ -283,7 +283,7 @@
       "pokemon": "Vulpix",
       "form": 0,
       "customtexture": [
-		"galaxy"
+	    "galaxy"
       ]
     },
 	{
@@ -291,7 +291,7 @@
       "pokemon": "Vulpix",
       "form": 0,
       "customtexture": [
-		"galaxy"
+	    "galaxy"
       ]
     },
     {
@@ -300,7 +300,7 @@
       "form": 0,
       "customtexture": [
 	    "newyear",
-		"galaxy"
+	    "galaxy"
       ]
     },
     {
@@ -309,7 +309,7 @@
       "form": 0,
       "customtexture": [
 	    "newyear",
-		"galaxy"
+	    "galaxy"
       ]
     },
     {
@@ -711,7 +711,7 @@
       "form": 0,
       "customtexture": [
 	    "halloween",
-		"galaxy"
+	    "galaxy"
       ]
     },
     {
@@ -721,7 +721,7 @@
       "customtexture": [
 	    "art",
 	    "halloween",
-		"galaxy"
+	    "galaxy"
       ]
     },
     {
@@ -731,7 +731,7 @@
       "customtexture": [
 	    "art",
 	    "halloween",
-		"galaxy"
+	    "galaxy"
       ]
     },
     {
@@ -995,7 +995,7 @@
       "form": 0,
       "customtexture": [
 	    "halloween",
-		"galaxy"
+	    "galaxy"
       ]
     },
     {
@@ -1004,7 +1004,7 @@
       "form": 1,
       "customtexture": [
 	    "halloween",
-		"galaxy"
+	    "galaxy"
       ]
     },
     {
@@ -1020,8 +1020,8 @@
       "form": 0,
       "customtexture": [
 	    "christmas",
-		"newyear",
-		"galaxy"
+	    "newyear",
+	    "galaxy"
       ]
     },
     {
@@ -1030,7 +1030,7 @@
       "form": 0,
       "customtexture": [
 	    "christmas",
-		"galaxy"
+	    "galaxy"
       ]
     },
     {
@@ -1038,7 +1038,7 @@
       "pokemon": "Eevee",
       "form": 1,
       "customtexture": [
-		"galaxy"
+	    "galaxy"
       ]
     },
     {
@@ -1048,7 +1048,7 @@
       "customtexture": [
 	    "christmas",
 	    "halloween",
-		"galaxy"
+	    "galaxy"
       ]
     },
     {
@@ -1057,7 +1057,7 @@
       "form": 0,
       "customtexture": [
 	    "christmas",
-		"galaxy"
+	    "galaxy"
       ]
     },
     {
@@ -1066,7 +1066,7 @@
       "form": 0,
       "customtexture": [
 	    "christmas",
-		"galaxy"
+	    "galaxy"
       ]
     },
     {
@@ -1177,7 +1177,7 @@
       "form": 0,
       "customtexture": [
 	    "halloween",
-		"galaxy"
+	    "galaxy"
       ]
     },
     {
@@ -1531,7 +1531,7 @@
       "form": 0,
       "customtexture": [
 	    "christmas",
-		"galaxy"
+	    "galaxy"
       ]
     },
     {
@@ -1540,7 +1540,7 @@
       "form": 0,
       "customtexture": [
 	    "christmas",
-		"galaxy"
+	    "galaxy"
       ]
     },
     {
@@ -1775,7 +1775,7 @@
       "form": 0,
       "customtexture": [
 	    "halloween",
-		"newyear"
+	    "newyear"
       ]
     },
     {
@@ -1784,7 +1784,7 @@
       "form": 0,
       "customtexture": [
 	    "halloween",
-		"newyear"
+	    "newyear"
       ]
     },
     {
@@ -1793,7 +1793,7 @@
       "form": 1,
       "customtexture": [
 	    "halloween",
-		"newyear"
+	    "newyear"
       ]
     },
     {
@@ -1908,7 +1908,7 @@
       "form": 0,
       "customtexture": [
 	    "christmas",
-		"newyear"
+	    "newyear"
       ]
     },
     {
@@ -2031,7 +2031,7 @@
       "form": 0,
       "customtexture": [
 	    "halloween",
-		"newyear"
+	    "newyear"
       ]
     },
     {
@@ -2213,7 +2213,7 @@
       "form": 0,
       "customtexture": [
 	    "art",
-		"galaxy"
+	    "galaxy"
       ]
     },
     {
@@ -2330,7 +2330,7 @@
       "customtexture": [
 	    "christmas",
 	    "halloween",
-		"newyear"
+	    "newyear"
       ]
     },
     {
@@ -2477,7 +2477,7 @@
       "form": 0,
       "customtexture": [
 	    "halloween",
-		"galaxy"
+	    "galaxy"
       ]
     },
     {
@@ -2486,7 +2486,7 @@
       "form": 0,
       "customtexture": [
 	    "halloween",
-		"galaxy"
+	    "galaxy"
       ]
     },
     {
@@ -2564,7 +2564,7 @@
       "customtexture": [
 	    "christmas",
 	    "halloween",
-		"galaxy"
+	    "galaxy"
       ]
     },
     {
@@ -2574,7 +2574,7 @@
       "customtexture": [
 	    "christmas",
 	    "halloween",
-		"galaxy"
+	    "galaxy"
       ]
     },
     {
@@ -2703,7 +2703,7 @@
       "form": 0,
       "customtexture": [
 	    "halloween",
-		"newyear"
+	    "newyear"
       ]
     },
     {
@@ -2958,7 +2958,7 @@
       "customtexture": [
 	    "christmas",
 	    "halloween",
-		"galaxy"
+	    "galaxy"
       ]
     },
     {
@@ -2968,7 +2968,7 @@
       "customtexture": [
 	    "christmas",
 	    "halloween",
-		"galaxy"
+	    "galaxy"
       ]
     },
     {
@@ -2978,7 +2978,7 @@
       "customtexture": [
 	    "art",
 	    "halloween",
-		"newyear"
+	    "newyear"
       ]
     },
     {
@@ -3274,7 +3274,7 @@
       "form": 0,
       "customtexture": [
 	    "christmas",
-		"newyear"
+	    "newyear"
       ]
     },
     {
@@ -3283,7 +3283,7 @@
       "form": 0,
       "customtexture": [
 	    "christmas",
-		"newyear"
+	    "newyear"
       ]
     },
     {
@@ -3292,7 +3292,7 @@
       "form": 0,
       "customtexture": [
 	    "christmas",
-		"galaxy"
+	    "galaxy"
       ]
     },
     {
@@ -3412,7 +3412,7 @@
       "form": 0,
       "customtexture": [
 	    "halloween",
-		"galaxy"
+	    "galaxy"
       ]
     },
     {
@@ -3449,8 +3449,8 @@
       "form": 0,
       "customtexture": [
 	    "art",
-		"newyear",
-		"galaxy"
+	    "newyear",
+	    "galaxy"
       ]
     },
     {
@@ -3460,7 +3460,7 @@
       "customtexture": [
 	    "art",
 	    "halloween",
-		"newyear"
+	    "newyear"
       ]
     },
     {
@@ -3470,7 +3470,7 @@
       "customtexture": [
 	    "art",
 	    "halloween",
-		"newyear"
+	    "newyear"
       ]
     },
     {
@@ -3637,7 +3637,7 @@
       "form": 0,
       "customtexture": [
 	    "christmas",
-		"galaxy"
+	    "galaxy"
       ]
     },
     {
@@ -3721,8 +3721,8 @@
       "form": 0,
       "customtexture": [
 	    "halloween",
-		"newyear",
-		"galaxy"
+	    "newyear",
+	    "galaxy"
       ]
     },
     {
@@ -3731,7 +3731,7 @@
       "form": 0,
       "customtexture": [
 	    "halloween",
-		"galaxy"
+	    "galaxy"
       ]
     },
     {
@@ -3785,8 +3785,8 @@
       "customtexture": [
 	    "christmas",
 	    "art",
-		"newyear",
-		"galaxy"
+	    "newyear",
+	    "galaxy"
       ]
     },
     {
@@ -3827,7 +3827,7 @@
       "form": 0,
       "customtexture": [
 	    "art",
-		"galaxy"
+	    "galaxy"
       ]
     },
     {
@@ -4318,7 +4318,7 @@
       "form": 0,
       "customtexture": [
 	    "halloween",
-		"newyear"
+	    "newyear"
       ]
     },
     {
@@ -4369,7 +4369,7 @@
       "form": 0,
       "customtexture": [
 	    "halloween",
-		"galaxy"
+	    "galaxy"
       ]
     },
     {
@@ -4378,7 +4378,7 @@
       "form": 0,
       "customtexture": [
 	    "halloween",
-		"galaxy"
+	    "galaxy"
       ]
     },
     {
@@ -4521,7 +4521,7 @@
       "form": 0,
       "customtexture": [
 	    "art",
-		"galaxy"
+	    "galaxy"
       ]
     },
     {
@@ -5311,7 +5311,7 @@
       "form": 0,
       "customtexture": [
 	    "art",
-		"galaxy"
+	    "galaxy"
       ]
     },
     {
@@ -5320,7 +5320,7 @@
       "form": 0,
       "customtexture": [
 	    "art",
-		"galaxy"
+	    "galaxy"
       ]
     },
     {
@@ -5329,7 +5329,7 @@
       "form": 0,
       "customtexture": [
 	    "christmas",
-		"galaxy"
+	    "galaxy"
       ]
     },
     {
@@ -5923,7 +5923,7 @@
       "form": 0,
       "customtexture": [
 	    "art",
-		"galaxy"
+	    "galaxy"
       ]
     },
     {
