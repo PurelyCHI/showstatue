@@ -326,7 +326,8 @@
       "pokemon": "Clefable",
       "form": 0,
       "customtexture": [
-	    "2021halloween"
+	    "2021halloween",
+	    "sakura"
       ]
     },
     {
@@ -351,7 +352,8 @@
       "form": 0,
       "customtexture": [
 	    "newyear",
-	    "galaxy"
+	    "galaxy",
+	    "sakura"
       ]
     },
     {
@@ -1246,7 +1248,8 @@
       "pokemon": "Dragonite",
       "form": 0,
       "customtexture": [
-	    "halloween"
+	    "halloween",
+	    "sakura"
       ]
     },
     {
@@ -1824,7 +1827,8 @@
       "pokemon": "Corsola",
       "form": 0,
       "customtexture": [
-	    "br"
+	    "br",
+	    "sakura"
       ]
     },
     {
@@ -1864,6 +1868,7 @@
       "pokemon": "Skarmory",
       "form": 0,
       "customtexture": [
+	    "sakura"
       ]
     },
     {
@@ -2113,7 +2118,8 @@
       "form": 0,
       "customtexture": [
 	    "wr",
-	    "winter"
+	    "winter",
+	    "sakura"
       ]
     },
 	{
@@ -2122,7 +2128,8 @@
       "form": 1,
       "customtexture": [
 	    "wr",
-	    "winter"
+	    "winter",
+	    "sakura"
       ]
     },
     {
@@ -2750,7 +2757,8 @@
       "pokemon": "Flygon",
       "form": 0,
       "customtexture": [
-	    "newyear"
+	    "newyear",
+	    "sakura"
       ]
     },
     {
@@ -2785,6 +2793,15 @@
       "pokemon": "Altaria",
       "form": 0,
       "customtexture": [
+	    "sakura"
+      ]
+    },
+	{
+      "extraText": "§aMEGA - ",
+      "pokemon": "Altaria",
+      "form": 1,
+      "customtexture": [
+	    "sakura"
       ]
     },
     {
@@ -2901,7 +2918,8 @@
       "customtexture": [
 	    "halloween",
 	    "newyear",
-	    "wr"
+	    "wr",
+	    "sakura"
       ]
     },
     {
@@ -3229,7 +3247,8 @@
 	    "art",
 	    "halloween",
 	    "newyear",
-	    "unique"
+	    "unique",
+	    "sakura"
       ]
     },
     {
@@ -4731,7 +4750,8 @@
       "form": 0,
       "customtexture": [
 	    "art",
-	    "winter"
+	    "winter",
+	    "sakura"
       ]
     },
     {
@@ -4998,6 +5018,7 @@
       "pokemon": "Chandelure",
       "form": 0,
       "customtexture": [
+	    "sakura"
       ]
     },
     {
@@ -5203,7 +5224,8 @@
       "customtexture": [
 	    "galaxy",
 	    "winter",
-	    "summer2"
+	    "summer2",
+	    "sakura"
       ]
     },
     {
@@ -5246,7 +5268,8 @@
       "pokemon": "Reshiram",
       "form": 0,
       "customtexture": [
-	    "unique"
+	    "unique",
+	    "sakura"
       ]
     },
     {
@@ -5366,7 +5389,28 @@
       "form": 0,
       "customtexture": [
 	    "winter",
-	    "3anniversary"
+	    "3anniversary",
+	    "sakura"
+      ]
+    },
+	{
+      "extraText": "",
+      "pokemon": "Greninja",
+      "form": 0,
+      "customtexture": [
+	    "winter",
+	    "3anniversary",
+	    "sakura"
+      ]
+    },
+	{
+      "extraText": "§a羈絆變身 - ",
+      "pokemon": "Greninja",
+      "form": 1,
+      "customtexture": [
+	    "winter",
+	    "3anniversary",
+	    "sakura"
       ]
     },
     {
@@ -6054,7 +6098,7 @@
       ]
     },
     {
-      "extraText": "§a白晝型態 - "
+      "extraText": "§a白晝型態 - ",
       "pokemon": "Lycanroc",
       "form": 0,
       "customtexture": [
@@ -6063,7 +6107,7 @@
       ]
     },
 	{
-      "extraText": "§a黑夜型態 - "
+      "extraText": "§a黑夜型態 - ",
       "pokemon": "Lycanroc",
       "form": 1,
       "customtexture": [
@@ -6072,7 +6116,7 @@
       ]
     },
 	{
-      "extraText": "§a黃昏型態 - "
+      "extraText": "§a黃昏型態 - ",
       "pokemon": "Lycanroc",
       "form": 2,
       "customtexture": [
@@ -6462,7 +6506,8 @@
       "pokemon": "Pheromosa",
       "form": 0,
       "customtexture": [
-	    "unique"
+	    "unique",
+	    "sakura"
       ]
     },
     {
@@ -6584,7 +6629,8 @@
       "pokemon": "Zeraora",
       "form": 0,
       "customtexture": [
-	    "unique"
+	    "unique",
+	    "sakura"
       ]
     },
     {
@@ -6697,6 +6743,7 @@
       "pokemon": "Corviknight",
       "form": 0,
       "customtexture": [
+	    "sakura"
       ]
     },
     {
@@ -6986,6 +7033,7 @@
       "pokemon": "Cursola",
       "form": 0,
       "customtexture": [
+	    "sakura"
       ]
     },
     {
@@ -7073,13 +7121,23 @@
       "pokemon": "Indeedee",
       "form": 0,
       "customtexture": [
+	    "sakura"
       ]
     },
     {
-      "extraText": "",
+      "extraText": "§a滿腹花紋 - ",
       "pokemon": "Morpeko",
       "form": 0,
       "customtexture": [
+	    "sakura"
+      ]
+    },
+	{
+      "extraText": "§a空腹花紋 - ",
+      "pokemon": "Morpeko",
+      "form": 1,
+      "customtexture": [
+	    "sakura"
       ]
     },
     {
