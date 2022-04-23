@@ -7,7 +7,8 @@
       "customtexture": [
 	    "christmas",
 	    "halloween",
-	    "galaxy"
+	    "galaxy",
+	    "br"
       ]
     },
     {
@@ -17,7 +18,8 @@
       "customtexture": [
 	    "christmas",
 	    "halloween",
-	    "galaxy"
+	    "galaxy",
+	    "br"
       ]
     },
     {
@@ -27,7 +29,8 @@
       "customtexture": [
 	    "christmas",
 	    "halloween",
-	    "galaxy"
+	    "galaxy",
+	    "br"
       ]
     },
     {
@@ -95,6 +98,7 @@
       "pokemon": "Metapod",
       "form": 0,
       "customtexture": [
+	    "br"
       ]
     },
     {
@@ -216,6 +220,7 @@
       "pokemon": "Sandslash",
       "form": 0,
       "customtexture": [
+	    "br"
       ]
     },
     {
@@ -247,6 +252,7 @@
       "pokemon": "Nidoranmale",
       "form": 0,
       "customtexture": [
+	    "br"
       ]
     },
     {
@@ -254,6 +260,7 @@
       "pokemon": "Nidorino",
       "form": 0,
       "customtexture": [
+	    "br"
       ]
     },
     {
@@ -261,7 +268,8 @@
       "pokemon": "Nidoking",
       "form": 0,
       "customtexture": [
-	    "halloween"
+	    "halloween",
+	    "br"
       ]
     },
     {
@@ -331,6 +339,7 @@
       "pokemon": "Zubat",
       "form": 0,
       "customtexture": [
+	    "br"
       ]
     },
     {
@@ -338,6 +347,7 @@
       "pokemon": "Golbat",
       "form": 0,
       "customtexture": [
+	    "br"
       ]
     },
     {
@@ -415,6 +425,7 @@
       "pokemon": "Meowth",
       "form": 0,
       "customtexture": [
+	    "br"
       ]
     },
     {
@@ -422,6 +433,7 @@
       "pokemon": "Persian",
       "form": 0,
       "customtexture": [
+	    "br"
       ]
     },
     {
@@ -557,7 +569,8 @@
       "pokemon": "Tentacool",
       "form": 0,
       "customtexture": [
-	    "halloween"
+	    "halloween",
+	    "br"
       ]
     },
     {
@@ -565,7 +578,8 @@
       "pokemon": "Tentacruel",
       "form": 0,
       "customtexture": [
-	    "halloween"
+	    "halloween",
+	    "br"
       ]
     },
     {
@@ -679,6 +693,7 @@
       "pokemon": "Muk",
       "form": 0,
       "customtexture": [
+	    "br"
       ]
     },
     {
@@ -971,6 +986,7 @@
       "pokemon": "Pinsir",
       "form": 0,
       "customtexture": [
+	    "br"
       ]
     },
     {
@@ -1066,7 +1082,8 @@
       "form": 0,
       "customtexture": [
 	    "christmas",
-	    "galaxy"
+	    "galaxy",
+	    "br"
       ]
     },
     {
@@ -1111,6 +1128,15 @@
       "pokemon": "Aerodactyl",
       "form": 0,
       "customtexture": [
+	    "br"
+      ]
+    },
+	{
+      "extraText": "&aMEGA - ",
+      "pokemon": "Aerodactyl",
+      "form": 0,
+      "customtexture": [
+	    "br"
       ]
     },
     {
@@ -1325,6 +1351,7 @@
       "pokemon": "Crobat",
       "form": 0,
       "customtexture": [
+	    "br"
       ]
     },
     {
@@ -1509,6 +1536,7 @@
       "pokemon": "Yanma",
       "form": 0,
       "customtexture": [
+	    "br"
       ]
     },
     {
@@ -1540,7 +1568,8 @@
       "form": 0,
       "customtexture": [
 	    "christmas",
-	    "galaxy"
+	    "galaxy",
+	    "br"
       ]
     },
     {
@@ -1731,6 +1760,7 @@
       "pokemon": "Corsola",
       "form": 0,
       "customtexture": [
+	    "br"
       ]
     },
     {
@@ -1822,6 +1852,7 @@
       "pokemon": "Porygon2",
       "form": 0,
       "customtexture": [
+	    "br"
       ]
     },
     {
@@ -2213,7 +2244,8 @@
       "form": 0,
       "customtexture": [
 	    "art",
-	    "galaxy"
+	    "galaxy",
+	    "br"
       ]
     },
     {
@@ -2718,6 +2750,7 @@
       "pokemon": "Kecleon",
       "form": 0,
       "customtexture": [
+	    "br"
       ]
     },
     {
@@ -2875,6 +2908,7 @@
       "pokemon": "Beldum",
       "form": 0,
       "customtexture": [
+	    "br"
       ]
     },
     {
@@ -2882,6 +2916,7 @@
       "pokemon": "Metang",
       "form": 0,
       "customtexture": [
+	    "br"
       ]
     },
     {
@@ -2889,6 +2924,7 @@
       "pokemon": "Metagross",
       "form": 0,
       "customtexture": [
+	    "br"
       ]
     },
     {
@@ -2958,7 +2994,8 @@
       "customtexture": [
 	    "christmas",
 	    "halloween",
-	    "galaxy"
+	    "galaxy",
+	    "br"
       ]
     },
     {
@@ -2968,7 +3005,8 @@
       "customtexture": [
 	    "christmas",
 	    "halloween",
-	    "galaxy"
+	    "galaxy",
+	    "br"
       ]
     },
     {
@@ -3115,6 +3153,7 @@
       "pokemon": "Luxio",
       "form": 0,
       "customtexture": [
+	    "br"
       ]
     },
     {
@@ -3122,6 +3161,7 @@
       "pokemon": "Luxray",
       "form": 0,
       "customtexture": [
+	    "br"
       ]
     },
     {
@@ -3420,6 +3460,7 @@
       "pokemon": "Gible",
       "form": 0,
       "customtexture": [
+	    "br"
       ]
     },
     {
@@ -3621,6 +3662,7 @@
       "pokemon": "Yanmega",
       "form": 0,
       "customtexture": [
+	    "br"
       ]
     },
     {
@@ -3660,6 +3702,7 @@
       "pokemon": "Porygon-Z",
       "form": 0,
       "customtexture": [
+	    "br"
       ]
     },
     {
@@ -3747,7 +3790,8 @@
       "form": 0,
       "customtexture": [
 	    "christmas",
-	    "halloween"
+	    "halloween",
+	    "br"
       ]
     },
     {
@@ -5166,7 +5210,8 @@
       "pokemon": "Honedge",
       "form": 0,
       "customtexture": [
-	    "art"
+	    "art",
+	    "br"
       ]
     },
     {
@@ -5174,7 +5219,8 @@
       "pokemon": "Doublade",
       "form": 0,
       "customtexture": [
-	    "art"
+	    "art",
+	    "br"
       ]
     },
     {
@@ -5182,7 +5228,8 @@
       "pokemon": "Aegislash",
       "form": 0,
       "customtexture": [
-	    "art"
+	    "art",
+	    "br"
       ]
     },
     {
@@ -5190,7 +5237,8 @@
       "pokemon": "Aegislash",
       "form": 1,
       "customtexture": [
-	    "art"
+	    "art",
+	    "br"
       ]
     },
     {
@@ -5268,6 +5316,7 @@
       "pokemon": "Clauncher",
       "form": 0,
       "customtexture": [
+	    "br"
       ]
     },
     {
@@ -5275,6 +5324,7 @@
       "pokemon": "Clawitzer",
       "form": 0,
       "customtexture": [
+	    "br"
       ]
     },
     {
