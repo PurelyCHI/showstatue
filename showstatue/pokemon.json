@@ -48,6 +48,7 @@
       "pokemon": "Charmander",
       "form": 0,
       "customtexture": [
+	    "winter"
       ]
     },
     {
@@ -55,6 +56,7 @@
       "pokemon": "Charmeleon",
       "form": 0,
       "customtexture": [
+	    "winter"
       ]
     },
     {
@@ -62,6 +64,23 @@
       "pokemon": "Charizard",
       "form": 0,
       "customtexture": [
+	    "winter"
+      ]
+    },
+	{
+      "extraText": "§aMEGA-X - ",
+      "pokemon": "Charizard",
+      "form": 1,
+      "customtexture": [
+	    "winter"
+      ]
+    },
+	{
+      "extraText": "§aMEGA-Y - ",
+      "pokemon": "Charizard",
+      "form": 2,
+      "customtexture": [
+	    "winter"
       ]
     },
     {
@@ -201,6 +220,7 @@
       "pokemon": "Pikachu",
       "form": 0,
       "customtexture": [
+	    "winter"
       ]
     },
     {
@@ -208,6 +228,15 @@
       "pokemon": "Raichu",
       "form": 0,
       "customtexture": [
+	    "winter"
+      ]
+    },
+	{
+      "extraText": "§a阿羅拉 - ",
+      "pokemon": "Raichu",
+      "form": 1,
+      "customtexture": [
+	    "winter"
       ]
     },
     {
@@ -1379,6 +1408,7 @@
       "pokemon": "Pichu",
       "form": 0,
       "customtexture": [
+	    "winter"
       ]
     },
     {
@@ -1691,7 +1721,8 @@
       "pokemon": "Shuckle",
       "form": 0,
       "customtexture": [
-	    "christmas"
+	    "christmas",
+	    "winter"
       ]
     },
     {
@@ -1788,7 +1819,8 @@
       "pokemon": "Delibird",
       "form": 0,
       "customtexture": [
-	    "christmas"
+	    "christmas",
+	    "winter"
       ]
     },
     {
@@ -2017,7 +2049,8 @@
       "pokemon": "Torchic",
       "form": 0,
       "customtexture": [
-	    "wr"
+	    "wr",
+	    "winter"
       ]
     },
     {
@@ -2025,7 +2058,8 @@
       "pokemon": "Combusken",
       "form": 0,
       "customtexture": [
-	    "wr"
+	    "wr",
+	    "winter"
       ]
     },
     {
@@ -2033,7 +2067,8 @@
       "pokemon": "Blaziken",
       "form": 0,
       "customtexture": [
-	    "wr"
+	    "wr",
+	    "winter"
       ]
     },
 	{
@@ -2041,7 +2076,8 @@
       "pokemon": "Blaziken",
       "form": 1,
       "customtexture": [
-	    "wr"
+	    "wr",
+	    "winter"
       ]
     },
     {
@@ -2049,6 +2085,7 @@
       "pokemon": "Mudkip",
       "form": 0,
       "customtexture": [
+	    "winter"
       ]
     },
     {
@@ -2056,6 +2093,7 @@
       "pokemon": "Marshtomp",
       "form": 0,
       "customtexture": [
+	    "winter"
       ]
     },
     {
@@ -2063,6 +2101,15 @@
       "pokemon": "Swampert",
       "form": 0,
       "customtexture": [
+	    "winter"
+      ]
+    },
+	{
+      "extraText": "§aMEGA - ",
+      "pokemon": "Swampert",
+      "form": 1,
+      "customtexture": [
+	    "winter"
       ]
     },
     {
@@ -2212,6 +2259,7 @@
       "pokemon": "Ralts",
       "form": 0,
       "customtexture": [
+	    "winter"
       ]
     },
     {
@@ -2219,6 +2267,7 @@
       "pokemon": "Kirlia",
       "form": 0,
       "customtexture": [
+	    "winter"
       ]
     },
     {
@@ -2226,7 +2275,8 @@
       "pokemon": "Gardevoir",
       "form": 0,
       "customtexture": [
-	     "halloween"
+	     "halloween",
+	     "winter"
       ]
     },
     {
@@ -2234,7 +2284,8 @@
       "pokemon": "Gardevoir",
       "form": 1,
       "customtexture": [
-	     "halloween"
+	    "halloween",
+	    "winter"
       ]
     },
     {
@@ -2819,7 +2870,8 @@
       "pokemon": "Chimecho",
       "form": 0,
       "customtexture": [
-	    "newyear"
+	    "newyear",
+	    "winter"
       ]
     },
     {
@@ -2914,6 +2966,7 @@
       "pokemon": "Luvdisc",
       "form": 0,
       "customtexture": [
+	    "winter"
       ]
     },
     {
@@ -3423,7 +3476,8 @@
       "pokemon": "Chingling",
       "form": 0,
       "customtexture": [
-	    "newyear"
+	    "newyear",
+	    "winter"
       ]
     },
     {
@@ -3746,6 +3800,15 @@
       "pokemon": "Gallade",
       "form": 0,
       "customtexture": [
+	    "winter"
+      ]
+    },
+	{
+      "extraText": "§aMEGA - ",
+      "pokemon": "Gallade",
+      "form": 1,
+      "customtexture": [
+	    "winter"
       ]
     },
     {
@@ -4291,6 +4354,7 @@
       "pokemon": "Petilil",
       "form": 0,
       "customtexture": [
+	    "winter"
       ]
     },
     {
@@ -4298,7 +4362,8 @@
       "pokemon": "Lilligant",
       "form": 0,
       "customtexture": [
-	    "halloween"
+	    "halloween",
+	    "winter"
       ]
     },
     {
@@ -4466,7 +4531,8 @@
       "pokemon": "Minccino",
       "form": 0,
       "customtexture": [
-	    "art"
+	    "art",
+	    "winter"
       ]
     },
     {
@@ -4474,7 +4540,8 @@
       "pokemon": "Cinccino",
       "form": 0,
       "customtexture": [
-	    "art"
+	    "art",
+	    "winter"
       ]
     },
     {
@@ -4930,7 +4997,8 @@
       "pokemon": "Larvesta",
       "form": 0,
       "customtexture": [
-	    "galaxy"
+	    "galaxy",
+	    "winter"
       ]
     },
     {
@@ -4938,7 +5006,8 @@
       "pokemon": "Volcarona",
       "form": 0,
       "customtexture": [
-	    "galaxy"
+	    "galaxy",
+	    "winter"
       ]
     },
     {
@@ -5073,6 +5142,7 @@
       "pokemon": "Froakie",
       "form": 0,
       "customtexture": [
+	    "winter"
       ]
     },
     {
@@ -5080,6 +5150,7 @@
       "pokemon": "Frogadier",
       "form": 0,
       "customtexture": [
+	    "winter"
       ]
     },
     {
@@ -5087,6 +5158,7 @@
       "pokemon": "Greninja",
       "form": 0,
       "customtexture": [
+	    "winter"
       ]
     },
     {
@@ -5430,6 +5502,7 @@
       "pokemon": "Dedenne",
       "form": 0,
       "customtexture": [
+	    "winter"
       ]
     },
     {
@@ -5566,7 +5639,8 @@
       "pokemon": "Diancie",
       "form": 0,
       "customtexture": [
-	    "halloween"
+	    "halloween",
+	    "winter"
       ]
     },
     {
@@ -5574,7 +5648,8 @@
       "pokemon": "Diancie",
       "form": 1,
       "customtexture": [
-	    "halloween"
+	    "halloween",
+	    "winter"
       ]
     },
     {
@@ -5641,6 +5716,7 @@
       "pokemon": "Popplio",
       "form": 0,
       "customtexture": [
+	    "winter"
       ]
     },
     {
@@ -5648,6 +5724,7 @@
       "pokemon": "Brionne",
       "form": 0,
       "customtexture": [
+	    "winter"
       ]
     },
     {
@@ -5655,6 +5732,7 @@
       "pokemon": "Primarina",
       "form": 0,
       "customtexture": [
+	    "winter"
       ]
     },
     {
@@ -5895,6 +5973,7 @@
       "pokemon": "Bounsweet",
       "form": 0,
       "customtexture": [
+	    "winter"
       ]
     },
     {
@@ -5902,6 +5981,7 @@
       "pokemon": "Steenee",
       "form": 0,
       "customtexture": [
+	    "winter"
       ]
     },
     {
@@ -5909,6 +5989,7 @@
       "pokemon": "Tsareena",
       "form": 0,
       "customtexture": [
+	    "winter"
       ]
     },
     {
@@ -5916,7 +5997,8 @@
       "pokemon": "Comfey",
       "form": 0,
       "customtexture": [
-	    "christmas"
+	    "christmas",
+	    "winter"
       ]
     },
     {
@@ -6016,7 +6098,8 @@
       "form": 0,
       "customtexture": [
 	    "art",
-	    "galaxy"
+	    "galaxy",
+	    "winter"
       ]
     },
     {
@@ -6194,7 +6277,8 @@
       "pokemon": "Marshadow",
       "form": 0,
       "customtexture": [
-	    "halloween"
+	    "halloween",
+	    "winter"
       ]
     },
     {
