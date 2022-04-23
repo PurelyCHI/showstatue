@@ -315,6 +315,7 @@
       "pokemon": "Clefable",
       "form": 0,
       "customtexture": [
+	    "2021halloween"
       ]
     },
     {
@@ -1063,6 +1064,8 @@
       "pokemon": "Lapras",
       "form": 0,
       "customtexture": [
+	    "summer",
+	    "summer2"
       ]
     },
     {
@@ -1072,7 +1075,8 @@
       "customtexture": [
 	    "christmas",
 	    "newyear",
-	    "galaxy"
+	    "galaxy",
+	    "summer2"
       ]
     },
     {
@@ -1179,6 +1183,15 @@
       "pokemon": "Snorlax",
       "form": 0,
       "customtexture": [
+	    "2021halloween"
+      ]
+    },
+	{
+      "extraText": "§a極巨化 - ",
+      "pokemon": "Snorlax",
+      "form": 2,
+      "customtexture": [
+	    "2021halloween"
       ]
     },
     {
@@ -1580,6 +1593,7 @@
       "pokemon": "Wooper",
       "form": 0,
       "customtexture": [
+	    "summer"
       ]
     },
     {
@@ -1587,6 +1601,7 @@
       "pokemon": "Quagsire",
       "form": 0,
       "customtexture": [
+	    "summer"
       ]
     },
     {
@@ -1805,6 +1820,7 @@
       "pokemon": "Remoraid",
       "form": 0,
       "customtexture": [
+	    "summer"
       ]
     },
     {
@@ -1812,6 +1828,7 @@
       "pokemon": "Octillery",
       "form": 0,
       "customtexture": [
+	    "summer"
       ]
     },
     {
@@ -1843,7 +1860,8 @@
       "form": 0,
       "customtexture": [
 	    "halloween",
-	    "newyear"
+	    "newyear",
+	    "summer2"
       ]
     },
     {
@@ -1852,7 +1870,8 @@
       "form": 0,
       "customtexture": [
 	    "halloween",
-	    "newyear"
+	    "newyear",
+	    "summer2"
       ]
     },
     {
@@ -1861,7 +1880,8 @@
       "form": 1,
       "customtexture": [
 	    "halloween",
-	    "newyear"
+	    "newyear",
+	    "summer2"
       ]
     },
     {
@@ -2259,7 +2279,8 @@
       "pokemon": "Ralts",
       "form": 0,
       "customtexture": [
-	    "winter"
+	    "winter",
+	    "summer2"
       ]
     },
     {
@@ -2267,7 +2288,8 @@
       "pokemon": "Kirlia",
       "form": 0,
       "customtexture": [
-	    "winter"
+	    "winter",
+	    "summer2"
       ]
     },
     {
@@ -2276,7 +2298,9 @@
       "form": 0,
       "customtexture": [
 	     "halloween",
-	     "winter"
+	     "winter",
+	     "summer",
+	     "summer2"
       ]
     },
     {
@@ -2285,7 +2309,9 @@
       "form": 1,
       "customtexture": [
 	    "halloween",
-	    "winter"
+	    "winter",
+	    "summer",
+	    "summer2"
       ]
     },
     {
@@ -2453,6 +2479,17 @@
       "pokemon": "Mawile",
       "form": 0,
       "customtexture": [
+	    "summer",
+	    "summer2"
+      ]
+    },
+	{
+      "extraText": "§aMEGA - ",
+      "pokemon": "Mawile",
+      "form": 1,
+      "customtexture": [
+	    "summer",
+	    "summer2"
       ]
     },
     {
@@ -2488,6 +2525,15 @@
       "pokemon": "Medicham",
       "form": 0,
       "customtexture": [
+	    "summer"
+      ]
+    },
+	{
+      "extraText": "§aMEGA - ",
+      "pokemon": "Medicham",
+      "form": 1,
+      "customtexture": [
+	    "summer"
       ]
     },
     {
@@ -2575,6 +2621,15 @@
       "pokemon": "Sharpedo",
       "form": 0,
       "customtexture": [
+	    "2021halloween"
+      ]
+    },
+	{
+      "extraText": "§aMEGA - ",
+      "pokemon": "Sharpedo",
+      "form": 1,
+      "customtexture": [
+	    "2021halloween"
       ]
     },
     {
@@ -2600,6 +2655,7 @@
       "pokemon": "Numel",
       "form": 0,
       "customtexture": [
+	    "summer2"
       ]
     },
     {
@@ -2607,6 +2663,15 @@
       "pokemon": "Camerupt",
       "form": 0,
       "customtexture": [
+	    "summer2"
+      ]
+    },
+	{
+      "extraText": "§aMEGA - ",
+      "pokemon": "Camerupt",
+      "form": 1,
+      "customtexture": [
+	    "summer2"
       ]
     },
     {
@@ -2902,6 +2967,7 @@
       "pokemon": "Snorunt",
       "form": 0,
       "customtexture": [
+	    "summer2"
       ]
     },
     {
@@ -2909,6 +2975,7 @@
       "pokemon": "Glalie",
       "form": 0,
       "customtexture": [
+	    "summer2"
       ]
     },
     {
@@ -3109,10 +3176,35 @@
       ]
     },
     {
-      "extraText": "",
+      "extraText": "§a普通型態 - ",
       "pokemon": "Deoxys",
       "form": 0,
       "customtexture": [
+	    "2021halloween"
+      ]
+    },
+	{
+      "extraText": "§a攻擊型態 - ",
+      "pokemon": "Deoxys",
+      "form": 1,
+      "customtexture": [
+	    "2021halloween"
+      ]
+    },
+	{
+      "extraText": "§a防禦型態 - ",
+      "pokemon": "Deoxys",
+      "form": 2,
+      "customtexture": [
+	    "2021halloween"
+      ]
+    },
+	{
+      "extraText": "§a速度型態 - ",
+      "pokemon": "Deoxys",
+      "form": 3,
+      "customtexture": [
+	    "2021halloween"
       ]
     },
     {
@@ -3394,7 +3486,8 @@
       "pokemon": "Ambipom",
       "form": 0,
       "customtexture": [
-	    "art"
+	    "art",
+	    "summer"
       ]
     },
     {
@@ -3421,7 +3514,8 @@
       "form": 0,
       "customtexture": [
 	    "christmas",
-	    "galaxy"
+	    "galaxy",
+	    "summer2"
       ]
     },
     {
@@ -3429,7 +3523,8 @@
       "pokemon": "Lopunny",
       "form": 0,
       "customtexture": [
-	    "christmas"
+	    "christmas",
+	    "summer2"
       ]
     },
     {
@@ -3437,7 +3532,8 @@
       "pokemon": "Lopunny",
       "form": 1,
       "customtexture": [
-	    "christmas"
+	    "christmas",
+	    "summer2"
       ]
     },
     {
@@ -3800,7 +3896,8 @@
       "pokemon": "Gallade",
       "form": 0,
       "customtexture": [
-	    "winter"
+	    "winter",
+	    "summer2"
       ]
     },
 	{
@@ -3808,7 +3905,8 @@
       "pokemon": "Gallade",
       "form": 1,
       "customtexture": [
-	    "winter"
+	    "winter",
+	    "summer2"
       ]
     },
     {
@@ -3831,7 +3929,8 @@
       "pokemon": "Froslass",
       "form": 0,
       "customtexture": [
-	    "newyear"
+	    "newyear",
+	    "summer2"
       ]
     },
     {
@@ -4228,6 +4327,7 @@
       "pokemon": "Excadrill",
       "form": 0,
       "customtexture": [
+	    "2021halloween"
       ]
     },
     {
@@ -4340,6 +4440,7 @@
       "pokemon": "Cottonee",
       "form": 0,
       "customtexture": [
+	    "summer2"
       ]
     },
     {
@@ -4347,6 +4448,7 @@
       "pokemon": "Whimsicott",
       "form": 0,
       "customtexture": [
+	    "summer2"
       ]
     },
     {
@@ -4676,7 +4778,8 @@
       "pokemon": "Amoonguss",
       "form": 0,
       "customtexture": [
-	    "art"
+	    "art",
+	    "2021halloween"
       ]
     },
     {
@@ -4720,6 +4823,7 @@
       "pokemon": "Ferroseed",
       "form": 0,
       "customtexture": [
+	    "summer2"
       ]
     },
     {
@@ -4727,7 +4831,8 @@
       "pokemon": "Ferrothorn",
       "form": 0,
       "customtexture": [
-	    "halloween"
+	    "halloween",
+	    "summer2"
       ]
     },
     {
@@ -4990,6 +5095,7 @@
       "pokemon": "Hydreigon",
       "form": 0,
       "customtexture": [
+	    "2021halloween"
       ]
     },
     {
@@ -4998,7 +5104,8 @@
       "form": 0,
       "customtexture": [
 	    "galaxy",
-	    "winter"
+	    "winter",
+	    "summer2"
       ]
     },
     {
@@ -5007,7 +5114,8 @@
       "form": 0,
       "customtexture": [
 	    "galaxy",
-	    "winter"
+	    "winter",
+	    "summer2"
       ]
     },
     {
@@ -5173,6 +5281,7 @@
       "pokemon": "Diggersby",
       "form": 0,
       "customtexture": [
+	    "2021halloween"
       ]
     },
     {
@@ -5716,7 +5825,8 @@
       "pokemon": "Popplio",
       "form": 0,
       "customtexture": [
-	    "winter"
+	    "winter",
+	    "summer2"
       ]
     },
     {
@@ -5724,7 +5834,8 @@
       "pokemon": "Brionne",
       "form": 0,
       "customtexture": [
-	    "winter"
+	    "winter",
+	    "summer2"
       ]
     },
     {
@@ -5732,7 +5843,8 @@
       "pokemon": "Primarina",
       "form": 0,
       "customtexture": [
-	    "winter"
+	    "winter",
+	    "summer2"
       ]
     },
     {
@@ -5908,6 +6020,7 @@
       "pokemon": "Araquanid",
       "form": 0,
       "customtexture": [
+	    "summer"
       ]
     },
     {
@@ -6048,6 +6161,7 @@
       "pokemon": "Pyukumuku",
       "form": 0,
       "customtexture": [
+	    "summer2"
       ]
     },
     {
@@ -6100,7 +6214,9 @@
 	    "art",
 	    "galaxy",
 	    "winter",
-	    "winter2"
+	    "winter2",
+	    "summer2",
+	    "2021halloween"
       ]
     },
     {
@@ -6158,7 +6274,8 @@
       "pokemon": "TapuLele",
       "form": 0,
       "customtexture": [
-	    "galaxy"
+	    "galaxy",
+	    "summer2"
       ]
     },
     {
@@ -6214,6 +6331,7 @@
       "pokemon": "Nihilego",
       "form": 0,
       "customtexture": [
+	    "2021halloween"
       ]
     },
     {
@@ -6221,6 +6339,7 @@
       "pokemon": "Buzzwole",
       "form": 0,
       "customtexture": [
+	    "summer"
       ]
     },
     {
@@ -6249,7 +6368,8 @@
       "pokemon": "Kartana",
       "form": 0,
       "customtexture": [
-	    "galaxy"
+	    "galaxy",
+	    "summer2"
       ]
     },
     {
@@ -6257,6 +6377,7 @@
       "pokemon": "Guzzlord",
       "form": 0,
       "customtexture": [
+	    "summer2"
       ]
     },
     {
@@ -6271,6 +6392,8 @@
       "pokemon": "Magearna",
       "form": 0,
       "customtexture": [
+	    "summer",
+	    "summer2"
       ]
     },
     {
